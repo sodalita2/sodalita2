@@ -1,4 +1,4 @@
-Interested in WEB development
+Interested in WEB development, UI/UX design
 
 __________________________________________________
 
