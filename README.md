@@ -1,4 +1,4 @@
-## PHP Dev Intern
+## PHP Developer Intern
 
 
 I make projects with Vue and Next.
