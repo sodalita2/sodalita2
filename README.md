@@ -1,14 +1,14 @@
-## Interested in WEB development, UI/UX design
+## PHP Dev Intern
 
 
-I make Landing Pages and maintain my E-Commerce site at hetabi.com.
+I make projects with Vue and Next.
+I really like Tailwindcss.
 
-Projects include learning: Next.js, Vue.js
 
 Stack:
-* HTML/CSS/JS
+* Vue
 * PHP
-* Vue.js
+* HTML/CSS/JS
 * Next.js
 * ReactJS
 * Tailwindcss
