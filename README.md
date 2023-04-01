@@ -1,7 +1,10 @@
 ## PHP Developer Intern
 
-Mantenho minha plataforma de jogos para exercício cognitivo para idosos em cognicenter.com.br .
+Projetos:
 
+educacao.cognicenter.com.br
+
+cognicenter.com.br
 
 
 Stack:
