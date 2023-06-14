@@ -10,10 +10,11 @@ cognicenter.com.br
 Stack:
 * Vue
 * PHP
-* Next.js
+* jQuery
 * ReactJS
 * Tailwindcss
 * LESS/SASS
 * HTML/CSS/JS
+* MySQL, SQL Server
 
 
