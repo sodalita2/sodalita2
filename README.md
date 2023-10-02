@@ -1,10 +1,9 @@
-## PHP Developer
+## PHP Developer  |  FullStack Web Developer
 
-Projetos:
+Likes mobile development with React Native
 
-educacao.cognicenter.com.br
+Loves Tailwindcss + React/Vue
 
-cognicenter.com.br
 
 
 Stack:
